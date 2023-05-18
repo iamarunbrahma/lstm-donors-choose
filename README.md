@@ -6,4 +6,4 @@ DonorsChoose.org receives hundreds of thousands of project proposals each year f
 The goal of the competition is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the text of project descriptions as well as additional metadata about the project, teacher, and school. DonorsChoose.org can then use this information to identify projects most likely to need further review before approval.
 
 ## Steps:-
-Trained a LSTM model using 3 different architectures to classify if a project needs to be approved or not. Achieved a validation accuracy score of 0.748 using 20 epochs.
+Trained a LSTM model using 3 different architectures to predict if a project proposal will be approved or not. Achieved a validation accuracy score of 0.748 for 20 epochs in the best performing LSTM architecture.
